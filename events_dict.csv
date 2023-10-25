@@ -1,0 +1,13 @@
+,index,name,id,description
+0,0,student_created_order,3,Создание заявки
+1,497,student_booked_introlesson,2,Назначение ВУ
+2,934,student_pass_introlesson_succesfully,7,Успешный ВУ
+3,956,firstline_operator_assigned_at_task,8,Назначение задачи на звонок 1Л
+4,1007,secondline_operator_assigned_at_task,12,Назначена задача на вторую линию
+5,1227,student_answered_firstline_operator,4,Ученик ответил на звонок оператора 1л
+6,1619,methodist_joined_introlesson,6,Выход МВУ на ВУ
+7,1715,student_passed_demolesson,11,ДУ завершен
+8,1801,student_answered_secondline_operator,9,Дозвон 2Л
+9,2014,student_joined_demolesson,10,Переход на ДУ (ДУ начался)
+10,2239,firstline_operator_send_wa_message,5,Отправка сообщения WA
+11,13327,student_answered_wa_message,13,У ответил на сообщение WA
